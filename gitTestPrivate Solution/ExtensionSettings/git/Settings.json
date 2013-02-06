@@ -1,0 +1,10 @@
+﻿{
+	"wakRepository":"gitTestPrivate",
+	"gitRememberPassword":"true",
+	"serverType":"github",
+	"wakAddr":"localhost",
+	"gitIsPrivateRepository":"true",
+	"gitURL":"https://github.com/wakanda",
+	"wakRememberPassword":"false",
+	"wakPort":"4433"
+}
